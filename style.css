@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+}
+h1{
+background-color: green;
+}
+td{
+    padding-left: 5px;
+}
+button{
+    margin-top: 4px;
+}
+textarea{
+    margin-top: 3px;
+}
